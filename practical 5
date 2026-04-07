@@ -1,0 +1,66 @@
+<html>
+<head>
+<title>My Resume</title>
+</head>
+
+<body bgcolor="lightblue">
+
+<h1 align="center">RESUME</h1>
+
+<h2>Personal Information</h2>
+<img src="C:\Users\LAB-115\Pictures\anuj70.jpg" width="150" height="150">
+
+<p><b>Name:</b> Anuj Ingle</p>
+<p><b>Enrollment No:</b> CS25070</p>
+<p><b>Email:</b> anujingle2007@gmail.com</p>
+<p><b>Contact:</b> 123654789</p>
+
+<h2>Education</h2>
+<table border="1">
+<tr>
+<th>Qualification</th>
+<th>Institute</th>
+<th>Year</th>
+</tr>
+
+<tr>
+<td>SSC</td>
+<td>CDS School</td>
+<td>2022</td>
+</tr>
+
+<tr>
+<td>HSC</td>
+<td>St Paul College</td>
+<td>2024</td>
+</tr>
+
+<tr>
+<td>cse</td>
+<td>SB Jain Institute</td>
+<td>2025</td>
+</tr>
+</table>
+
+<h2>Skills</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Web Designing</li>
+</ul>
+
+<h2>Hobbies</h2>
+<ol>
+<li>Reading Books</li>
+<li>Playing Games</li>
+<li>Listening to Music</li>
+</ol>
+
+<h2>Website</h2>
+<p>
+<a href="https://www.google.com">Visit Google</a>
+</p>
+
+</body>
+</html>
