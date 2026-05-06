@@ -1,0 +1,42 @@
+<html>
+<head>
+<title> Tribute to Bhagat Singh </title>
+</head>
+<body>
+
+<div>
+<nav>
+ <a href="#life">Life</a>
+ <a href="#works">Works</a>
+ <a href="#legacy">Legacy</a>
+</nav>
+</div>
+
+<div>
+<header>
+ <h1> Bhagat Singh </h1>
+ <p>Shaheed-e-Azam</p>
+</header>
+</div>
+
+<div id="life">
+<h2>Life</h2>
+<!-- Ensure bhagat_singh.jpg is in the same folder as this HTML file -->
+<img src="bhagat_singh.jpg" alt="Portrait of Bhagat Singh">
+<p> Bhagat Singh was a charismatic Indian revolutionary who played a crucial role in the Indian independence movement, known for his supreme sacrifice at a young age. </p>
+</div>
+
+<div id="works">
+<h2>Works</h2>
+<p><b>Hindustan Socialist Republican Association</b> - He was a key leader in reorganizing the HSRA, aiming for an independent socialist India.</p>
+<p><b>Assembly Bombing</b> - He and Batukeshwar Dutt threw non-lethal bombs in the Central Legislative Assembly to protest repressive laws, famously shouting "Inquilab Zindabad."</p>
+<p><b>Revolutionary Literature</b> - A prolific writer, he penned the famous essay "Why I am an Atheist" while in prison, showcasing his intellectual depth and socialist vision.</p>
+</div>
+
+<div id="legacy">
+<h2>Legacy</h2>
+<p>Bhagat Singh's bravery and intellectual clarity made him a folk hero in India, inspiring generations of youth to stand up against injustice and tyranny.</p>
+</div>
+
+</body>
+</html>
