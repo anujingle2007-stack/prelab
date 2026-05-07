@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>Hero's - Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="blue">
+    <h1 align="centre">Marvel</h1>
+    <div class="Hero">
+        <img src="spiderman.jpg">
+        <img src="captainamerica.jpg">
+        <img src="ironman.jpg">
+        <img src="thor.jpg">
+        <img src="hulk.jpg">
+        <img src="blackwidow.jpg">
+        <img src="blackpanther.jpg">
+        <img src="dr.strange.jpg">
+    </div>
+</body>
+</html>   
